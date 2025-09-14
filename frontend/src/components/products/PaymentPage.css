@@ -1,0 +1,18 @@
+.column-layout {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  height: 30vw;
+  
+}
+
+.heading{
+  margin-top: 1vw;
+  text-align: center;
+  width: 100vw; 
+  height: 5vw;  
+}
+.column {
+  padding: 0 100px;
+  box-sizing: border-box;
+}
